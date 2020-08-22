@@ -53,8 +53,6 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
 
 В результате тестирования выявлены следующие дефекты:
 * (https://github.com/OlgaLetkova/hwJava-1.1/issues/1)
-* (https://github.com/OlgaLetkova/hwJava-1.1/issues/2)
-* (https://github.com/OlgaLetkova/hwJava-1.1/issues/3)
 * (https://github.com/OlgaLetkova/hwJava-1.1/issues/4)
 
 ### Описание процесса тестирования
@@ -63,7 +61,6 @@ OpenJDK 64-Bit Server VM AdoptOpenJDK (build 11.0.8+10, mixed mode)
 * [руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md)
 
 В качестве тестовых данных использовались ключи для проверки из [руководство использования KeyValidator](https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md):
-
 Валидные ключи:
 * 8f05e6a7-70e9-33d7-bfe7-b19eae0d8998
 * 80b427f8-92cd-3aae-ba04-3927fbe17c6
